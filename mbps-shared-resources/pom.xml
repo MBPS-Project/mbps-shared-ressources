@@ -26,7 +26,7 @@
 		<dependency>
 			<groupId>ch.uzh.csg</groupId>
 			<artifactId>custom-serialization</artifactId>
-			<version>0.1.5</version>
+			<version>0.1.6</version>
 		</dependency>
 		
 		<!-- JUnit in order that maven can run the tests -->
